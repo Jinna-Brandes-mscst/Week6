@@ -1,0 +1,12 @@
+User Stories
+
+
+As a DSP, I want to enter participants timecards so there is a record of their time.
+
+As a DSP, I want to have access to all job numbers(ID's) from a search result.
+
+As a PC, I want to look at participants timecards for the whole month.
+
+As a DSP, I want to enter participants outcomes at the same time as their timecards.
+
+As a PC, I want to make sure DSP's are entering outcome information on a weekly basis.

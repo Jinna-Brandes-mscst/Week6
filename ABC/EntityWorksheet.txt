@@ -1,0 +1,23 @@
+Entity Worksheet
+
+
+Business Transactions
+Transaction Lineitems
+Products or services related to a business transaction
+Roles of people
+	Program Coordinator PC(ID, First_Name, Last_Name, Phone_Number)
+	Direct Support Professional DSP(ID, First_Name, Last_Name, Phone_Number, PC_ID)
+	Participant(ID, First_Name, Last_Name, Address_ID, Phone_Number, PC_ID)
+Place of Service
+	Jobs(ID, Address_ID, Contact_Person, PC_ID)
+Noteworthy Events
+	Outcomes(ID, Date, Goal, Participant_ID, DSP_ID)
+	TimeCard(ID, Date, Start_Time, End_Time, Job_ID, Participant_ID, DSP_ID)
+Physical Objects
+Locations
+	Address(ID, Street_1, Street_2, City, State, Zip, House_Name)
+Description of things
+Catalogs
+Things in a container
+Containers of other things
+
